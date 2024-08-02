@@ -28,4 +28,6 @@
 - LinkedIn: [Rafif Ahnafyusi](https://www.linkedin.com/in/rafifahnafyusi/)
 - Email: [rafifahnafyusi@example.com](mailto:rafifahnafyusi@gmail.com)
 
-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raffadness.raffadness)
+###
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raffadness.raffadness)
