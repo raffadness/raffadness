@@ -6,7 +6,7 @@
 
 ###
 
-![Banner](https://postimg.cc/HV6PytZp)
+![Banner](https://i.postimg.cc/K8bXCqtg/github-header-image-1.png)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
