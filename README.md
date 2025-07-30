@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">You don't build a masterpiece overnight. You build it brick by brick.</p>
+<p align="center">"You don't build a masterpiece overnight. You build it brick by brick."</p>
 
 ###
 
