@@ -3,7 +3,9 @@
 ###
 
 <p align="center">I'm a Front End Developer dedicated to crafting engaging and functional web experiences. Since diving into the world of web development, I've found joy in creating visually appealing designs and intuitive interactions for users.</p>
+
 ###
+
 <p align="center">You don't build a masterpiece overnight. You build it brick by brick.</p>
 
 ###
